@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+N;CHARSET=UTF-8:Chitaliya;Nilesh;;;
+TITLE;CHARSET=UTF-8:Hi
+ORG;CHARSET=UTF-8:Health Care (India)
+TEL;TYPE=WORK,VOICE:9224392897
+EMAIL;TYPE=WORK:healthcareindia28@gmail.com
+URL;TYPE=WORK:https://healthcareindia.netlify.app/
+ADR;TYPE=WORK;CHARSET=UTF-8:A-306, Sarita Insdustry, Prabhat Industrial Estate, Near Toll Naka, Dahisar (E), Mumbai-400068, Mumbai-400068;Mumbai;400068;India
+END:VCARD
